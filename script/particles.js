@@ -1540,4 +1540,4 @@ window.particlesJS.load = function(tag_id, path_config_json, callback){
 
 };
 
-particlesJS.load('particles-js', '/file/particles.json')
+particlesJS.load('particles-js', 'file/particles.json')
