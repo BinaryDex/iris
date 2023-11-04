@@ -1,6 +1,6 @@
 let message = {
     messages: [
-        'irisdex@proton.me      ', 
+        'irisdex@proton.me          ', 
         'haiii :3 ', 
         'dex wuz here ', 
         'ruining the internet since 2019 ', 
