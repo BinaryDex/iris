@@ -1,4 +1,4 @@
-let string = "teststring.xyz";
+let string = "octohook.xyz";
 let up = true;
 let count = 0;
 
