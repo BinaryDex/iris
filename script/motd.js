@@ -1,17 +1,17 @@
 let message = {
     messages: [
-        '4ever undetected ', 
-        'forever destroying project delta ', 
-        'octohook best scwipt >_< ', 
-        'destroying ars since release ', 
-        'https://www.youtube.com/watch?v=78i0lQRMLqg    ', 
-        '#1 project delta script since 2021 ',
-        'best femboys ever :3 ', 
-        'ice was here ', 
-        'forever unhittable ', 
+        'irisdex@proton.me      ', 
+        'haiii :3 ', 
+        'dex wuz here ', 
+        'ruining the internet since 2019 ', 
+        'wsg   ', 
+        'forever unhittable ',
         'grrrrrrrrr ', 
-        'octohook > all ', 
-        'femboys >>> '
+        'irisware > all ', 
+        'femboys >>> ', 
+        'rip script-ware ', 
+        'rip v3rmillion ', 
+        'one day or day one? '
     ],
     up: true,
     index: 0,
