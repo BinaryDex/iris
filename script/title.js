@@ -1,4 +1,4 @@
-let string = "> iris";
+let string = "teststring.xyz";
 let up = true;
 let count = 0;
 
